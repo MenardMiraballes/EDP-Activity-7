@@ -38,7 +38,7 @@ namespace LibraryManagementSystem
         private void Dashboard_btn_Click(object sender, EventArgs e)
         {
             dashboard1.Visible = true;
-            //addBook1.Visible = false;
+            //addBook1.Visible = false; cannot fine solution here.
             repDet1.Visible = false;
         }
 
