@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Menard 18\\source\\repos\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8316DF96-406D-4690-83F4-508B6E3A50B4}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\menard 18\\source\\repos\\librarymanagementsystem\\librarymanagementsystem\\repdet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8316DF96-406D-4690-83F4-508B6E3A50B4}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\repdet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8316DF96-406D-4690-83F4-508B6E3A50B4}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\Menard 18\\source\\repos\\LibraryManagementSystem\\librarymanagementsystem\\excelreportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8316DF96-406D-4690-83F4-508B6E3A50B4}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\excelreportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8316DF96-406D-4690-83F4-508B6E3A50B4}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\Menard 18\\source\\repos\\LibraryManagementSystem\\librarymanagementsystem\\repdet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8316DF96-406D-4690-83F4-508B6E3A50B4}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\repdet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8316DF96-406D-4690-83F4-508B6E3A50B4}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\Menard 18\\source\\repos\\LibraryManagementSystem\\librarymanagementsystem\\addbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8316DF96-406D-4690-83F4-508B6E3A50B4}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\addbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8316DF96-406D-4690-83F4-508B6E3A50B4}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\Menard 18\\source\\repos\\LibraryManagementSystem\\librarymanagementsystem\\updatebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8316DF96-406D-4690-83F4-508B6E3A50B4}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\updatebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8316DF96-406D-4690-83F4-508B6E3A50B4}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\Menard 18\\source\\repos\\LibraryManagementSystem\\librarymanagementsystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8316DF96-406D-4690-83F4-508B6E3A50B4}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8316DF96-406D-4690-83F4-508B6E3A50B4}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\Menard 18\\source\\repos\\LibraryManagementSystem\\librarymanagementsystem\\sqlquery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{8316DF96-406D-4690-83F4-508B6E3A50B4}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\sqlquery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8316DF96-406D-4690-83F4-508B6E3A50B4}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\Menard 18\\source\\repos\\LibraryManagementSystem\\librarymanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8316DF96-406D-4690-83F4-508B6E3A50B4}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8316DF96-406D-4690-83F4-508B6E3A50B4}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\Menard 18\\source\\repos\\LibraryManagementSystem\\librarymanagementsystem\\bookdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8316DF96-406D-4690-83F4-508B6E3A50B4}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\bookdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8316DF96-406D-4690-83F4-508B6E3A50B4}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\Menard 18\\source\\repos\\LibraryManagementSystem\\librarymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8316DF96-406D-4690-83F4-508B6E3A50B4}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8316DF96-406D-4690-83F4-508B6E3A50B4}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\Menard 18\\source\\repos\\LibraryManagementSystem\\librarymanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8316DF96-406D-4690-83F4-508B6E3A50B4}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8316DF96-406D-4690-83F4-508B6E3A50B4}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\Menard 18\\source\\repos\\LibraryManagementSystem\\librarymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8316DF96-406D-4690-83F4-508B6E3A50B4}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8316DF96-406D-4690-83F4-508B6E3A50B4}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\Menard 18\\source\\repos\\LibraryManagementSystem\\librarymanagementsystem\\addbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8316DF96-406D-4690-83F4-508B6E3A50B4}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\addbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8316DF96-406D-4690-83F4-508B6E3A50B4}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\Menard 18\\source\\repos\\LibraryManagementSystem\\librarymanagementsystem\\updatebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8316DF96-406D-4690-83F4-508B6E3A50B4}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\updatebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Menard 18\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\Menard 18\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Form1.cs [Design]",
+              "RelativeToolTip": "LibraryManagementSystem\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T15:44:55.395Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SQLQuery2.sql ",
+              "DocumentMoniker": "C:\\Users\\Menard 18\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\SQLQuery2.sql",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\SQLQuery2.sql",
+              "ToolTip": "C:\\Users\\Menard 18\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\SQLQuery2.sql",
+              "RelativeToolTip": "LibraryManagementSystem\\SQLQuery2.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-16T15:27:32.437Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExcelReportGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Menard 18\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\ExcelReportGenerator.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\ExcelReportGenerator.cs",
+              "ToolTip": "C:\\Users\\Menard 18\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\ExcelReportGenerator.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\ExcelReportGenerator.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAADwv1MAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T08:54:49.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RepDet.cs",
+              "DocumentMoniker": "C:\\Users\\Menard 18\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\RepDet.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\RepDet.cs",
+              "ToolTip": "C:\\Users\\Menard 18\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\RepDet.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\RepDet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T17:03:42.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepDet.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Menard 18\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\RepDet.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\RepDet.cs",
+              "ToolTip": "C:\\Users\\Menard 18\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\RepDet.cs [Design]",
+              "RelativeToolTip": "LibraryManagementSystem\\RepDet.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T17:01:26.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddBook.cs",
+              "DocumentMoniker": "C:\\Users\\Menard 18\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\AddBook.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\AddBook.cs",
+              "ToolTip": "C:\\Users\\Menard 18\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\AddBook.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\AddBook.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAA9wDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:41:54.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Menard 18\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Dashboard.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\Menard 18\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Dashboard.cs [Design]",
+              "RelativeToolTip": "LibraryManagementSystem\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T13:58:30.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateBook.cs",
+              "DocumentMoniker": "C:\\Users\\Menard 18\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\UpdateBook.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\UpdateBook.cs",
+              "ToolTip": "C:\\Users\\Menard 18\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\UpdateBook.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\UpdateBook.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwCEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T13:53:09.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateBook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Menard 18\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\UpdateBook.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\UpdateBook.cs",
+              "ToolTip": "C:\\Users\\Menard 18\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\UpdateBook.cs [Design]",
+              "RelativeToolTip": "LibraryManagementSystem\\UpdateBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T17:33:18.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookData.cs",
+              "DocumentMoniker": "C:\\Users\\Menard 18\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\BookData.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\BookData.cs",
+              "ToolTip": "C:\\Users\\Menard 18\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\BookData.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\BookData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T12:55:10.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddBook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Menard 18\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\AddBook.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\AddBook.cs",
+              "ToolTip": "C:\\Users\\Menard 18\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\AddBook.cs [Design]",
+              "RelativeToolTip": "LibraryManagementSystem\\AddBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T05:58:18.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Menard 18\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\MainForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Menard 18\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\MainForm.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\MainForm.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T12:21:20.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Menard 18\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\MainForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Menard 18\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\MainForm.cs [Design]",
+              "RelativeToolTip": "LibraryManagementSystem\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T19:10:34.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Menard 18\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\Menard 18\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Form1.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Form1.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAwwBEAAACoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:17:03.041Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
